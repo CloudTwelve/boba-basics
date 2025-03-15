@@ -1,1 +1,24 @@
 /* this is the stylesheet. nothing's here yet */
+
+* {
+    font-family: 'Lexend';
+    margin: 0;
+    padding: 0;
+    border: 0;
+    color: #EBFDFF;
+}
+
+header {
+    background-color: #248232;
+    padding: 10px;
+}
+
+.title {
+  font-size: 2rem;
+}
+
+a {
+    color: white;
+    text-shadow: 2px 2px 5px #EBFDFF;
+}
+
