@@ -22,3 +22,11 @@ a {
     text-shadow: 2px 2px 5px #EBFDFF;
 }
 
+hr {
+  border: 1px solid #000000;
+  margin: 5px;
+}
+
+main * {
+  color: black;
+}
